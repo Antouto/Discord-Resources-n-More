@@ -1,54 +1,55 @@
 ---
-title: Contribution
+title: Beitragen
 sidebar_position: 3
-slug: /contribution
-description: A list of tons of useful discord resources and utilities for all types of users, from beginners to power users.
+slug: /beitragen
+description: Eine Liste von extrem vielen hilfreichen Discord Resourcen für alle arten von Nutzern, von Anfängern bis zu Power-User.
 ---
 
-# Contribution
+# Beitragen
 
-Found an error or a typo? Have a good resource that fits this list? Become a contributor and be on the glorious list of contributors above!<br/>
-To contribute, you are more than welcome to PR this wiki or send a DM to @755792681313108018 in order to edit the wiki, and yourself into the list.
-You can also join the [Official Project Guild](https://discord.gg/yxbqz9pNxS) to contribute there.
 
-## Contributors
+Fehler oder Tippfehler gefunden? Du hast eine gute Ressource, die zu dieser Liste passt? Werden Sie ein Mitwirkender und stehen Sie auf der glorreichen Liste der Mitwirkenden oben!<br/>
+Um einen Beitrag zu leisten, bist du willkommen, ein PR zu machen oder eine DM an @755792681313108018 zu senden, um das Wiki zu bearbeiten und sich selbst in die Liste aufzunehmen.
+Du kannst auch dem [Offiziellen Projekt Server](https://discord.gg/yxbqz9pNxS) beitreten, um dort einen Beitrag zu leisten.
 
-This project took more than one set of hands, and we are proud to have this team of contributors who helped us with this project!<br/>
-We want to thank:<br/>
-@856780995629154305 - Website Maintainer <br/>
-@347727875266576395 - Wiki Architect <br/>
-@391660873409888277 - Wiki fixer <br/>
-@363481883369013259 - GitHub Manager / Documentation Organizer<br/>
-@337654195526303746 - Resources Researcher / Maintainer<br/>
-@337104786593939456 - Documentation Organizer<br/>
-@485676072176713729 - Resources Researcher / Maintainer<br/>
-@762387276595724308 - Resources Researcher / Maintainer<br/>
-@378537973215657984 - Community & Content Manager / Documentation Organizer<br/>
-@287711497118023692 - Resources Researcher / Documentation Organizer<br/>
+## Mitwirkende
+
+Für dieses Projekt waren mehr als nur ein Paar Hände erforderlich, und wir sind stolz darauf, dieses Team von Mitwirkenden zu haben, die uns bei diesem Projekt geholfen haben!
+Wir danken:<br/>
+@856780995629154305 - Website Betreuer <br/>
+@347727875266576395 - Wiki Architekt <br/>
+@391660873409888277 - Wiki Reparierer <br/>
+@363481883369013259 - GitHub Manager / Dokumentationsorganisator<br/>
+@337654195526303746 - Ressourcenforscher / Betreuer<br/>
+@337104786593939456 - Dokumentationsorganisator<br/>
+@485676072176713729 - Ressourcenforscher / Betreuer<br/>
+@762387276595724308 - Ressourcenforscher / Betreuer<br/>
+@378537973215657984 - Community & Content Manager / Dokumentationsorganisator<br/>
+@287711497118023692 - Ressourcenforscher / Dokumentationsorganisator<br/>
 @192060404501839872 - Designer<br/>
-@386861188891279362 - Website Architect / Documentation Organizer<br/>
-@102102717165506560 - Growth Consulting / Resource Curator<br/>
-@755792681313108018 - *I had this idea and did all of the above*
+@386861188891279362 - Website Architekt / Dokumentationsorganisator<br/>
+@102102717165506560 - Wachstumsberatung / Ressourcenkurator<br/>
+@755792681313108018 - *Ich hatte diese Idee und habe alles oben Genannte gemacht*
 
-## How to test changes locally
+## So testen Sie Änderungen lokal
 
-Got a great PR going but don't know what it looks like? Not a problem!<br/>
-If you're in a fork of the repository it's as easy as running these 2 commands:
+Haben Sie eine großartige PR am Laufen, wissen aber nicht, wie sie aussieht? Kein Problem!<br/>
+Wenn Sie sich in einem Fork des Repositorys befinden, ist es ganz einfach, diese 2 Befehle auszuführen:
 
 ```
 npm install
 ```
 
-This downloads all the repositories needed by our documentation system (Docusaurus). You only need to run this once.
+Dadurch werden alle Repositories heruntergeladen, die von unserem Dokumentationssystem (Docusaurus) benötigt werden. Sie müssen dies nur einmal ausführen.
 
 ```
 npm start
 ```
 
-This command starts the web server (``localhost:3000`` by default) and must be ran every time you want to start editing.
-It does not need to be ran for every change you make however, as Docusaurus will automatically restart the server if it detects changes!
+Dieser Befehl startet den Webserver (standardmäßig ``localhost:3000``) und muss jedes Mal ausgeführt werden, wenn Sie mit der Bearbeitung beginnen möchten.
+Es muss jedoch nicht für jede von Ihnen vorgenommene Änderung ausgeführt werden, da Docusaurus den Server automatisch neu startet, wenn es Änderungen erkennt!
 
-Once you've got a running instance of the website locally, you're ready to start contributing!
-Notes: Please use ``<br/>`` for line break characters<br/>
-Requires Node.js version >= ``12.13.0``
-If you are using Yarn: Yarn version >= ``1.5``
+Sobald Sie eine lokal ausgeführte Instanz der Website haben, können Sie beginnen beizutragen!
+Hinweise: Bitte verwenden Sie ``<br/>`` für Zeilenumbruchzeichen<br/>
+Erfordert Node.js-Version >= ``12.13.0``
+Wenn Sie Yarn verwenden: Yarn-Version >= ``1.5``
