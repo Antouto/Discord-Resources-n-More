@@ -16,7 +16,7 @@ Du kannst auch dem [Offiziellen Projekt Server](https://discord.gg/yxbqz9pNxS) b
 
 Für dieses Projekt waren mehr als nur ein Paar Hände erforderlich, und wir sind stolz darauf, dieses Team von Mitwirkenden zu haben, die uns bei diesem Projekt geholfen haben!
 Wir danken:<br/>
-@856780995629154305 - Website Maintainer <br/>
+@856780995629154305 - Website Betreuer <br/>
 @347727875266576395 - Wiki Architekt <br/>
 @391660873409888277 - Wiki Reparierer <br/>
 @363481883369013259 - GitHub Manager / Dokumentationsorganisator<br/>
