@@ -37,4 +37,4 @@ Unser gesamtes Branding und unsere Assets sind unser Eigentum und wurden von @19
 
 Obwohl diese Angabe fakultativ ist, würden wir es sehr begrüßen, wenn wir Ihnen helfen könnten. Wir tun unser Bestes, um Links zu recherchieren, Ressourcen zu organisieren und sie auf der Website zusammenzustellen. Was Sie hier sehen, ist das Ergebnis monatelanger Bemühungen.
 
-**Helfen Sie Ihren Freunden, Bekannten, Gemeindemitgliedern und anderen, indem Sie dieses Projekt auch mit ihnen teilen!
+**Helfen Sie Ihren Freunden, Bekannten, Gemeindemitgliedern und anderen, indem Sie dieses Projekt auch mit ihnen teilen!**
