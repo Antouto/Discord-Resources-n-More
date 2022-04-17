@@ -3,38 +3,38 @@ title: Wiki
 sidebar_label: About
 sidebar_position: 1
 slug: /
-description: A list of tons of useful discord resources and utilities for all types of users, from beginners to power users.
+description: Eine Liste mit vielen nützlichen Discord-Ressourcen und Hilfsprogrammen für alle Arten von Nutzern, vom Anfänger bis zum Power-User.
 ---
 
-# About
+# Über uns
 
-## Welcome to Discord Resources Wiki
+## Willkommen bei Discord Resources Wiki
 
-## So what is this thing?
+## So was ist das hier?
 
-The founder of this project, @755792681313108018, had been looking for a good and handy list of Discord resources that would cover topics from basic knowledge to advanced utilities; a list that all Discord users, from beginners to proficient, will find useful. But no such list could be found.
+Der Gründer dieses Projekts, @755792681313108018, war auf der Suche nach einer guten und praktischen Liste von Discord-Ressourcen, die Themen von Grundkenntnissen bis hin zu fortgeschrittenen Hilfsprogrammen abdeckt; eine Liste, die für alle Discord-Nutzer, vom Anfänger bis zum Profi, nützlich ist. Aber es konnte keine solche Liste gefunden werden.
 
-And so, an idea struck!
-With the help of a few friends who know their way around Discord, together the **Discord Resources Wiki** was created. The project ended up taking months of research, organisation and design work to become what it is today, and we hope you'll find it useful.
+Und so entstand eine Idee!
+Mit der Hilfe einiger Freunde, die sich mit Discord auskennen, wurde das **Discord Resources Wiki** ins Leben gerufen. Das Projekt benötigte Monate der Recherche, Organisation und Designarbeit, um zu dem zu werden, was es heute ist, und wir hoffen, dass Sie es nützlich finden werden.
 
-## What am I seeing here?
+## Was kann ich hier finden?
 
-We group together similar resources under common categories and topics, accessible on the left on desktop or with the menu icon on mobile. Each resource has a brief description of what it is, followed by the link to where it may be accessed as well as credits to the creators.
+Wir gruppieren ähnliche Ressourcen unter gemeinsamen Kategorien und Themen, die auf der linken Seite auf dem Desktop oder über das Menüsymbol auf dem Handy zugänglich sind. Zu jeder Ressource gibt es eine kurze Beschreibung, gefolgt von einem Link, über den sie abgerufen werden kann, sowie den Namen der Ersteller.
 
-This site will be continuously and frequently updated as we come across more resources that would be of help to Discord users across the platform!
+Diese Seite wird kontinuierlich und häufig aktualisiert, wenn wir weitere Ressourcen finden, die für Discord-Nutzer auf der gesamten Plattform hilfreich sind!
 
-## Disclaimer
+## Haftungsausschluss
 
-**We are not affiliated with Discord in any way.**
+**Wir sind in keiner Weise mit Discord verbunden.**
 
-This site is an aggregate of most resources we could come across and is not a fully exhaustive list by all means. We do not claim rights or ownership to any of the resources listed here, unless explicitly mentioned otherwise. All credits to resource creators are listed in the “credits” section of each link.
+Diese Seite ist eine Zusammenstellung der meisten Ressourcen, auf die wir stoßen konnten, und stellt keineswegs eine erschöpfende Liste dar. Wir erheben keinen Anspruch auf die Rechte oder das Eigentum an den hier aufgelisteten Ressourcen, es sei denn, es wird ausdrücklich anders erwähnt. Alle Angaben zu den Urhebern der Ressourcen sind im Abschnitt "Credits" jedes Links aufgeführt.
 
-We try our best to credit users wherever possible, however, we recognise that some resources may have incorrect or incomplete credits. If you find any such resource, please get in touch so that we may rectify the issue.
+Wir tun unser Bestes, um die Benutzer so gut wie möglich zu erwähnen, sind uns jedoch bewusst, dass einige Ressourcen möglicherweise falsche oder unvollständige Angaben enthalten. Wenn Sie eine solche Ressource finden, setzen Sie sich bitte mit uns in Verbindung, damit wir das Problem berichtigen können.
 
-All of our branding and assets are owned by us and are created by @192060404501839872. You may not use our branding for your own personal use or projects without our explicit permission.
+Unser gesamtes Branding und unsere Assets sind unser Eigentum und wurden von @192060404501839872 erstellt. Ohne unsere ausdrückliche Genehmigung dürfen Sie unser Branding nicht für Ihren persönlichen Gebrauch oder Ihre Projekte verwenden. 
 
-## Personal Note
+## Persönliche Anmerkung
 
-Although optional, we would really appreciate being credited if we were of help to you. We try our best to research links, organise resources and curate them on the website, and what you see is a culmination of months of our effort.
+Obwohl diese Angabe fakultativ ist, würden wir es sehr begrüßen, wenn wir Ihnen helfen könnten. Wir tun unser Bestes, um Links zu recherchieren, Ressourcen zu organisieren und sie auf der Website zusammenzustellen. Was Sie hier sehen, ist das Ergebnis monatelanger Bemühungen.
 
-**Help your friends, mutuals, community members and more by sharing this project with them too!**
+**Helfen Sie Ihren Freunden, Bekannten, Gemeindemitgliedern und anderen, indem Sie dieses Projekt auch mit ihnen teilen!
