@@ -1,6 +1,6 @@
 ---
 title: Wiki
-sidebar_label: About
+sidebar_label: Über
 sidebar_position: 1
 slug: /
 description: Eine Liste mit vielen nützlichen Discord-Ressourcen und Hilfsprogrammen für alle Arten von Nutzern, vom Anfänger bis zum Power-User.
